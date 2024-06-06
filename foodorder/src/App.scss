@@ -1,0 +1,137 @@
+$color_1: white;
+$color_2: #ff3e41;
+$color-3: black;
+$color-4: #0D6EFD;
+
+.navbar2 {
+    background-color: $color_2 !important;
+    color: $color_1 ;
+    z-index: 10;
+
+
+    .logo-img {
+        width: 100px;
+        border-radius: 50%;
+    }
+
+    .heading {
+        font-size: 30px !important;
+        font-weight: 500 !important;
+        color: $color_1;
+        background-color: $color_2;
+        border-radius: 5px;
+    }
+
+    .nabartilte {
+        font-weight: 600 !important;
+        color: $color_1 ;
+
+    }
+
+    .nabartilte:hover {
+        color: $color_3 !important;
+    }
+}
+
+.bg-body-tertiary {
+    background-color: $color_2 !important;
+}
+
+.main-content {
+    margin-right: 400px !important;
+    max-width: 963px;
+}
+
+.navbar-fixed-right {
+    right: 0;
+    top: 0;
+    height: 100%;
+    width: 250px;
+    z-index: 1;
+    border-left: 1px solid #ddd;
+    
+}
+
+.Avail {
+    color: $color_1 !important;
+    background-color: $color_2 !important;
+    border-radius: 2px;
+
+}
+
+.cardcount-box {
+    width: 70px !important;
+    padding: 5px;
+    outline: none;
+    border-radius: 5px;
+}
+
+.cart-top-box {
+    border-bottom: 1px solid black;
+
+    .cart-box {
+
+        p {
+            font-size: 0.8rem !important;
+        }
+        Button{
+           width:25px !important;
+           height: 25px !important;
+           border: none;
+    }
+    input{
+        width: 50px !important;
+        height: 22px;
+        outline: none;
+    }
+    .icon1{
+     width: 8px !important;
+     margin: 1px !important;
+      }
+    }
+}
+.bg-text{
+    color: $color_2 !important;
+}
+.bg-color{
+    background-color: $color_2;
+    color: $color_1;
+    border: none;
+}
+.bg-color:hover{
+    background-color:$color_2;
+}
+.popup-box{
+    justify-content: center !important;
+    img{
+        width: 200px;
+    }
+}
+.modal-content{
+    width: 600px !important;
+}
+.popup-id-box{
+   input{
+    outline: none;
+    padding: 5px;
+   }
+}
+.tq{
+    img{
+        width: 80px ;
+    }
+
+}
+.food-img{
+    width: 286px !important;
+    height: 250px !important;
+}
+.admin-right-box{
+    text-align: center !important;
+    
+}
+.delete-button{
+    border: solid 1px;
+    border-radius: 3px;
+
+}

@@ -41,7 +41,7 @@ class Admin extends Component {
         const st = localStorage.getItem('user');
         const Array = JSON.parse(st);
         this.setState({ user: Array }, () => {
-            if (this.state.user.name == "admin@gmail.com") {
+            if (this.state.user.name === "admin@gmail.com") {
 
                 const str = localStorage.getItem('array');
                 const parsedArray = JSON.parse(str);

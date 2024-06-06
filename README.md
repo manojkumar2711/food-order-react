@@ -1,7 +1,7 @@
 ![Screenshot 2024-06-06 190423](https://github.com/manojkumar2711/food-order-react/assets/171223269/a9d8094b-de64-4ce8-8a22-6b9c2c78a514)
 ![Screenshot 2024-06-06 190518](https://github.com/manojkumar2711/food-order-react/assets/171223269/ea3f9d29-c3b0-4ecd-9797-7c48654a1d29)
-![Screenshot 2024-06-06 190814](https://github.com/manojkumar2711/food-order-react/assets/171223269/cd77bd0c-ee43-420a-9ae1-ae97b8125152)
 ![Screenshot 2024-06-06 190840](https://github.com/manojkumar2711/food-order-react/assets/171223269/422eb512-71dc-456e-b360-29ffd402ee05)
+![Screenshot 2024-06-06 192021](https://github.com/manojkumar2711/food-order-react/assets/171223269/ab816f3e-d835-4aac-a482-a52ef2a88bd5)
 ![Screenshot 2024-06-06 191037](https://github.com/manojkumar2711/food-order-react/assets/171223269/2f281fe8-0649-4625-8ee8-6aee59618c8b)
 ![Screenshot 2024-06-06 191108](https://github.com/manojkumar2711/food-order-react/assets/171223269/f33ee2f4-9afd-4eaf-a646-e8625b38b8c7)
 ![Screenshot 2024-06-06 191126](https://github.com/manojkumar2711/food-order-react/assets/171223269/480399b2-4fab-4f31-809b-321c2eec2b41)

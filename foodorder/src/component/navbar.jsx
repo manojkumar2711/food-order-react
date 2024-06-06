@@ -12,7 +12,8 @@ class Navbar1 extends Component {
     constructor(props) {
         super(props);
         this.state = {
-            user: Array.name,
+            // user: Array.name,
+             user: "manoj",
             data: { name: "" }
 
         };

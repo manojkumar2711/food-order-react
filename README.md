@@ -12,5 +12,4 @@
 ![Screenshot 2024-06-06 191346](https://github.com/manojkumar2711/food-order-react/assets/171223269/3f790a9f-a44b-44c5-b88e-b7fff6179ddf)
 
 
-https://github.com/manojkumar2711/food-order-react/assets/171223269/2a8aa523-188a-4805-922a-a947cdf3e3ef
 
